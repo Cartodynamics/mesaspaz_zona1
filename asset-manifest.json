@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/mesaspaz_zona1/static/css/main.244d0467.css",
-    "main.js": "/mesaspaz_zona1/static/js/main.e3d7f26f.js",
+    "main.js": "/mesaspaz_zona1/static/js/main.5f24a641.js",
     "static/js/453.ad937304.chunk.js": "/mesaspaz_zona1/static/js/453.ad937304.chunk.js",
     "index.html": "/mesaspaz_zona1/index.html",
     "main.244d0467.css.map": "/mesaspaz_zona1/static/css/main.244d0467.css.map",
-    "main.e3d7f26f.js.map": "/mesaspaz_zona1/static/js/main.e3d7f26f.js.map",
+    "main.5f24a641.js.map": "/mesaspaz_zona1/static/js/main.5f24a641.js.map",
     "453.ad937304.chunk.js.map": "/mesaspaz_zona1/static/js/453.ad937304.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.244d0467.css",
-    "static/js/main.e3d7f26f.js"
+    "static/js/main.5f24a641.js"
   ]
 }
